@@ -45,7 +45,7 @@ function preload(){
   blastSound = loadSound("Sounds/BlastSound.mpeg");
   shootingSound = loadSound("Sounds/ShootingSound.mpeg");
   welcome = loadImage("Images/Welcome_bk.jpg");
-  overImg = loadImage("IMAGES/gameover.png");
+  overImg = loadImage("Images/gameover.png");
   resetImg = loadImage("Images/reset.png");
   winImg = loadImage("Images/Winner.png");
 }
